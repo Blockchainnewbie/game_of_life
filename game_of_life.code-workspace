@@ -1,9 +1,11 @@
 {
 	"folders": [
 		{
+			"name": "game_of_life",
 			"path": "."
 		},
 		{
+			"name": "docs",
 			"path": "../docs"
 		}
 	],
